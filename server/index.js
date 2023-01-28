@@ -25,8 +25,8 @@ app.post("/checkout", async (req, res) => {
     const session = await stripe.checkout.sessions.create({
         line_items: lineItems,
         mode: 'payment',
-        success_url: "https://ecom-client-server.vercel.app/success",
-        cancel_url: "https://ecom-client-server.vercel.app/cancel"
+        success_url: "https://ecom-avez.vercel.app/success",
+        cancel_url: "https://ecom-avez.vercel.app/cancel"
     });
 
     res.send(JSON.stringify({
