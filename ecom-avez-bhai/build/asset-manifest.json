@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f287dfe3.css",
+    "main.js": "/static/js/main.e25e865e.js",
+    "static/media/img1.png": "/static/media/img1.fb14afd683861ce40d70.png",
+    "static/media/img00.jpg": "/static/media/img00.af00770b6e1cd55f2880.jpg",
+    "static/media/beaulty.jpg": "/static/media/beaulty.d0ced4cfdad57218722b.jpg",
+    "static/media/banner2.jpg": "/static/media/banner2.170a5e5bfb405952b6f8.jpg",
+    "static/media/watch.jpg": "/static/media/watch.b54a619315a5bf751a64.jpg",
+    "static/media/kids.jpg": "/static/media/kids.bb8447bebcc2c72f5830.jpg",
+    "static/media/laptop.jpg": "/static/media/laptop.6d93ceff9ecb42ce84c0.jpg",
+    "index.html": "/index.html",
+    "main.f287dfe3.css.map": "/static/css/main.f287dfe3.css.map",
+    "main.e25e865e.js.map": "/static/js/main.e25e865e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f287dfe3.css",
+    "static/js/main.e25e865e.js"
+  ]
+}

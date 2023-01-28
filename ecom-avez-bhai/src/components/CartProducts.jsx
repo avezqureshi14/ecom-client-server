@@ -6,7 +6,7 @@ import { Link } from 'react-router-dom'
 import Cart from './Cart'
 const CartProducts = () => {
   const checkout = async () => {
-        await fetch('http://localhost:5000/checkout', {
+        await fetch('https://ecom-avez.onrender.com/checkout', {
             method: "POST",
             headers: {
                 'Content-Type': 'application/json'
