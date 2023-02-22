@@ -1,6 +1,6 @@
 <b style="font-weight:bolder,font-size:2rem" >Ecom - Ecommerce Application</b>
 
-<b style="font-weight:bold" >Live Link of the application </b>https://ecom-avez.netlify.app/
+<b style="font-weight:bold" > 🔴 Live Link of the application 🔴 </b>https://ecom-avez.netlify.app/
 </br>
 </br>
 ![IMG_20230128_110528](https://user-images.githubusercontent.com/95353195/220631402-b17ce64c-cea9-405a-86af-c970c73d9ab4.png)
