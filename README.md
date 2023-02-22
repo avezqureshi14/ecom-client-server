@@ -2,7 +2,7 @@
 
 <b style="font-weight:bold" >Live Link of the application </b>https://ecom-avez.netlify.app/
 
-<b style="font-weight:bolder,font-size:2rem" > Description  :</b>
+<b style="font-weight:bolder,font-size:2rem" > Description   :</b>
 
 Ecom is an Ecommerce Application build using MERN Stack + Stripe which has functionality of Cart, Authentication, Payment Gateway ,Product Recomendation, Filtering Products using Search and Category and many more...
 
