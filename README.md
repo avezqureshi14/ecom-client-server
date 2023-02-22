@@ -1,10 +1,12 @@
-Ecom - Ecommerce Application
+<b style="font-weight:bolder,font-size:2rem" >Ecom - Ecommerce Application</b>
 
-Live Link of the application https://ecom-avez.netlify.app/
+<b style="font-weight:bold" >Live Link of the application </b>https://ecom-avez.netlify.app/
+
+<b style="font-weight:bolder,font-size:2rem" > Description  :</b>
 
 Ecom is an Ecommerce Application build using MERN Stack + Stripe which has functionality of Cart, Authentication, Payment Gateway ,Product Recomendation, Filtering Products using Search and Category and many more...
 
-Learnings from this Project :
+<b style="font-weight:bolder,font-size:2rem" > Learnings from this Project : </b>
 
 Well, as a student, building an ecommerce application using the MERN stack with features like search functionality, category filters, a shopping cart, and payment gateway integration was quite the learning experience. I think the most important takeaway for me was the significance of prioritizing user experience in software development. In the highly competitive ecommerce industry, providing an excellent user experience is crucial for success.
 
@@ -14,4 +16,4 @@ Through this project, I also gained valuable technical skills, such as understan
 
 Overall, I think this experience taught me the importance of prioritizing user experience, security, testing, and scalability in software development, and I'm excited to apply these learnings in future projects.
 
-for more projects visit https://avezqureshi.netlify.app/#projects
+<b style="font-weight:bold" >for more projects visit </b> https://avezqureshi.netlify.app/#projects
